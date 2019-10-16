@@ -1,3 +1,12 @@
+Roadblocks
+1. Problem - wasn't able to register or use register api
+Solution - the port had to be specified. It was defaulting to 5432. Also created a new column called "entries" in the DB
+
+Task - create a sample docker file # Section 11: Docker (5 / 26|1hr 43min) ## 250. Dockerfile (9min)
+
+
+
+
 # SmartBrain-api - v2
 Final project for Udemy course
 
